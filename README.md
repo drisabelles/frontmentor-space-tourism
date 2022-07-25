@@ -1,10 +1,12 @@
 <div align="center">
 
-# Frontend Mentor 
+<img src="https://github.com/drisabelles/frontmentor-space-tourism/blob/main/images/favicon-32x32.png">
+
+# Space Tourism Website - Frontend Mentor 
 
 </div>
 
-> Solução website para turismo espacial
+> Solução website para turismo espacial.
 
 Essa é uma solução para o [desafio de website de turismo espacial do Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3). Os desafios da Frontend Mentor ajudam você a melhorar suas habilidades de codar através da construção de projetos realísticos.
 
