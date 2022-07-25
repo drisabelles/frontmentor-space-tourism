@@ -63,7 +63,7 @@ Os usuário devem poder:
 <br>
 
 ## Links
-![Space Tourism - GitHub Pages](https://drisabelles.github.io/frontmentor-space-tourism/)
+<a href="https://drisabelles.github.io/frontmentor-space-tourism/">Space Tourism - GitHub Pages</a>
 
 ## Ferramentas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
