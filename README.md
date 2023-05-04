@@ -1,8 +1,6 @@
 <div align="center">
 
-<img weight=50px height=50px src="https://github.com/drisabelles/frontmentor-space-tourism/blob/main/images/favicon-32x32.png">
-
-# Space Tourism Website
+# 🚀👩🏻‍🚀 Space Tourism Website 👩🏻‍🚀🚀
 
 </div>
 
